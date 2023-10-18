@@ -1,13 +1,13 @@
-package com.example.realestate;
+package realestate.registration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RealEstateApplicationTests {
+class RegistrationApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
